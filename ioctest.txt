@@ -12,3 +12,5 @@ observ10,www.purple.com,domain,high,medium,AB,test1
 observ11,1.1.1.2,IP,high,medium,AB,test1
 observ12,www.google.com.sg,domain,high,medium,AB,test1
 observ13,www.google.com.sg,url,high,medium,AB,test1
+observ14,www.black.com.sg,url,high,medium,AB,test1
+observ15,www.black.com.sg,domain,high,medium,AB,test1
