@@ -16,3 +16,4 @@ observ14,www[.]black.com[.]sg,url,high,medium,AB,test1
 observ15,www[.]black.com[.]sg,domain,high,medium,AB,test1
 observ16,221.227.188.1,IP,high,medium,AB,test1
 observ17,www.black.com.sg,url,high,medium,AB,test1
+observ18,www.black.com.sg,domain,high,medium,AB,test1
