@@ -9,3 +9,6 @@ observ7,www.blue.com,URL,high,medium,AB,test1
 observ8,www.purple.com,URL,high,medium,AB,test1
 observ9,www.blue.com,domain,high,medium,AB,test1
 observ10,www.purple.com,domain,high,medium,AB,test1
+observ11,1.1.1.2,IP,high,medium,AB,test1
+observ12,www.google.com.sg,domain,high,medium,AB,test1
+observ13,www.google.com.sg,url,high,medium,AB,test1
