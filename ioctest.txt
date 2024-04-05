@@ -5,3 +5,4 @@ observ4,yahoo.com.sg,URL,high,medium,AB,test1
 observ4,yahoo.com.sg,domain,high,medium,AB,test1
 observ5,2.2.2.1,IP,high,medium,AB,test1
 observ6,www[.]blue[.]com,domain,high,medium,AB,test1
+observ7,www.blue.com,domain,high,medium,AB,test1
