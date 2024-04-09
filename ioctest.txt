@@ -1,3 +1,4 @@
 observ1,178.176.203.190,IP,high,medium,AB,test1
 observ9,www.blue.com,domain,high,medium,AB,test1
 observ10,www.purple.com,domain,high,medium,AB,test1
+observ2,31.13.66.35,IP,high,medium,AB,test1
